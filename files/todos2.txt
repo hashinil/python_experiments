@@ -1,0 +1,2 @@
+eat, clean, test
+wash, hot

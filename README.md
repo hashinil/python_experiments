@@ -44,3 +44,8 @@ Import
 Day 17/ Day 18
 
 ![image](https://github.com/hashinil/python_experiments/assets/33922245/d2114381-eaf7-400c-aaa0-7854b740c35f)
+
+Day 19
+
+![image](https://github.com/hashinil/python_experiments/assets/33922245/3431219d-a3f6-456e-a98c-12c856665c27)
+
